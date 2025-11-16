@@ -1,0 +1,16 @@
+transformers
+pytesseract
+fastapi
+uvicorn
+streamlit
+requests
+neo4j
+langchain
+openai-whisper
+PyMuPDF
+langchain_openai
+qdrant_client
+langchain_qdrant
+python-dotenv
+torchvision
+whisper
